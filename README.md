@@ -17,5 +17,6 @@ For making day slides, like for a school.
 ```
 
 2. Include an image (mine was 628x400) called `bg.jpg` for the background.
+3. Create a folder called `output` because I was too lazy to automatically make one.
 3. Run the script.
 4. Enjoy your zip file with all the generated slides.
